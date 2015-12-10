@@ -1,0 +1,6 @@
+25-11-2015
+Lorsqu'on clique sur le bouton Sauvegarder le résultat, seuls les tweets annotés sont enregistrés dans le fichier tweetsdatabase.csv.
+Les tweets déjà ajoutés ne peuvent plus être ajoutés.
+
+Le bouton KeyWords va annoter les nouveaux tweets via le fichier newtweets.csv et va mettre à jour le JTable (de la même manière que quand on lance une nouvelle recherche).
+Pareil pour les autres classifieurs.
